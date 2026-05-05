@@ -12,3 +12,6 @@
 ## ▶️ How to Run
 1. Import project in Eclipse
 2. Run as Java Application
+
+## 📸 Project Screenshot
+![Screenshot](screenshot.png)
